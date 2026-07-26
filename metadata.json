@@ -1,0 +1,6 @@
+{
+  "name": "iOS Artifact Recovery IDE Extension",
+  "description": "System design specification, privilege-separated IPC daemon, SQLite slack space parser, and iOS backup data recovery workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
